@@ -13,7 +13,7 @@
 		E32380D622251819009BA7DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E32380D522251819009BA7DE /* Assets.xcassets */; };
 		E32380D922251819009BA7DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E32380D722251819009BA7DE /* LaunchScreen.storyboard */; };
 		E32380E122252ABD009BA7DE /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E32380E022252ABD009BA7DE /* GameScene.swift */; };
-		E34EB94A222D5CD10004C368 /* jump13.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E34EB949222D5CD10004C368 /* jump13.mp3 */; };
+		E34EB952222D98B20004C368 /* jump13.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E34EB951222D98B20004C368 /* jump13.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		E32380D822251819009BA7DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E32380DA22251819009BA7DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E32380E022252ABD009BA7DE /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = SOURCE_ROOT; };
-		E34EB949222D5CD10004C368 /* jump13.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = jump13.mp3; path = ../../../../../Desktop/jump13.mp3; sourceTree = "<group>"; };
+		E34EB951222D98B20004C368 /* jump13.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jump13.mp3; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,8 +62,8 @@
 				E32380D022251817009BA7DE /* ViewController.swift */,
 				E32380D222251817009BA7DE /* Main.storyboard */,
 				E32380E022252ABD009BA7DE /* GameScene.swift */,
-				E34EB949222D5CD10004C368 /* jump13.mp3 */,
 				E32380D522251819009BA7DE /* Assets.xcassets */,
+				E34EB951222D98B20004C368 /* jump13.mp3 */,
 				E32380D722251819009BA7DE /* LaunchScreen.storyboard */,
 				E32380DA22251819009BA7DE /* Info.plist */,
 			);
@@ -128,7 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E34EB94A222D5CD10004C368 /* jump13.mp3 in Resources */,
+				E34EB952222D98B20004C368 /* jump13.mp3 in Resources */,
 				E32380D922251819009BA7DE /* LaunchScreen.storyboard in Resources */,
 				E32380D622251819009BA7DE /* Assets.xcassets in Resources */,
 				E32380D422251817009BA7DE /* Main.storyboard in Resources */,
